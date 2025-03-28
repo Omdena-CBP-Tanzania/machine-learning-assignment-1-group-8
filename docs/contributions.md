@@ -8,7 +8,7 @@
 
 ---
 
-## Week 1: Kick-off and EDA
+## Meeting 1: Kick-off and EDA
 - **Tumaini**: Led exploratory data analysis (EDA) and created initial visualizations.
 - **Kizito**: Explored attendance and performance trends in the dataset.
 - **Kelvin**: Identified early correlations and participated in EDA discussions.
@@ -16,7 +16,7 @@
 
 ---
 
-## Week 2: Preprocessing and Feature Engineering
+## Meeting 2: Preprocessing and Feature Engineering
 - **Kizito**: Led data cleaning and preprocessing, handled missing data and encoding strategies.
 - **Kelvin**: Proposed and implemented derived features for feature engineering.
 - **John**: Assisted with feature selection techniques (RFE and Lasso).
@@ -24,7 +24,7 @@
 
 ---
 
-## Week 3: Model Development
+## Meeting 3: Model Development
 - **John**: Led implementation and training of multiple regression models.
 - **Kelvin**: Helped fine-tune model parameters and support feature input selection.
 - **Kizito**: Contributed to model evaluation and comparison across metrics.
@@ -32,7 +32,7 @@
 
 ---
 
-## Week 4: Analysis, Final Notebook, and Presentation
+## Meeting 4: Analysis, Final Notebook, and Presentation
 - **Kizito**: Led the interpretation of model results and drafted analytical insights.
 - **Tumaini**: Integrated all steps into the final Jupyter notebook and reviewed narrative flow.
 - **Kelvin**: Designed and drafted the presentation slides with visual results.
